@@ -1,13 +1,5 @@
-export const process = {
-  dev: true
-}
-
-export const site = {
-  home: process.dev ? 'http://localhost:8080' : 'https://ya.ru'
-}
-
 export const app = {
-  title: 'Logo',
+  title: 'Clash of Clans',
 } 
 
 
