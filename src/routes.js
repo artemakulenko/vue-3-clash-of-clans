@@ -7,9 +7,9 @@ import AboutPage from "./pages/AboutPage";
 import NotFound from "./pages/NotFound";
 
 const routers = createRouter({ 
-  history: routerHistory,
+  history: routerHistory, 
   routes: [
-    {
+    {      
       path: '/',
       component: HomePage,
     },
